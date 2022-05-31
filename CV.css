@@ -1,0 +1,17 @@
+
+ul
+{
+    list-style: none;
+}
+li
+{
+    display: inline-block; 
+    width: 300px;
+}
+.special
+{
+    width: 800px ;
+    margin: auto ;
+    background-color: antiquewhite;
+    padding: 0 10px;
+}
